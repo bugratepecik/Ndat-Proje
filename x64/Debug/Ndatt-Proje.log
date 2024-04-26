@@ -1,0 +1,21 @@
+﻿  Ndatt-Proje.cpp
+C:\Users\bugra\OneDrive\Masaüstü\BOS-DENEME\Ndatt-Proje\Ndatt-Proje.cpp(226,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bugra\OneDrive\Masaüstü\BOS-DENEME\Ndatt-Proje\Ndatt-Proje.cpp(240,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bugra\OneDrive\Masaüstü\BOS-DENEME\Ndatt-Proje\Ndatt-Proje.cpp(250,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\bugra\OneDrive\Masaüstü\BOS-DENEME\Ndatt-Proje\Ndatt-Proje.cpp(250,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\bugra\OneDrive\Masaüstü\BOS-DENEME\Ndatt-Proje\Ndatt-Proje.cpp(269,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\bugra\OneDrive\Masaüstü\BOS-DENEME\Ndatt-Proje\Ndatt-Proje.cpp(269,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\bugra\OneDrive\Masaüstü\BOS-DENEME\Ndatt-Proje\Ndatt-Proje.cpp(285,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\bugra\OneDrive\Masaüstü\BOS-DENEME\Ndatt-Proje\Ndatt-Proje.cpp(285,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\bugra\OneDrive\Masaüstü\BOS-DENEME\Ndatt-Proje\Ndatt-Proje.cpp(315,73): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\bugra\OneDrive\Masaüstü\BOS-DENEME\Ndatt-Proje\Ndatt-Proje.cpp(314,52): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\bugra\OneDrive\Masaüstü\BOS-DENEME\Ndatt-Proje\Ndatt-Proje.cpp(318,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\bugra\OneDrive\Masaüstü\BOS-DENEME\Ndatt-Proje\Ndatt-Proje.cpp(317,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\bugra\OneDrive\Masaüstü\BOS-DENEME\Ndatt-Proje\Ndatt-Proje.cpp(336,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\bugra\OneDrive\Masaüstü\BOS-DENEME\Ndatt-Proje\Ndatt-Proje.cpp(404,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\bugra\OneDrive\Masaüstü\BOS-DENEME\Ndatt-Proje\Ndatt-Proje.cpp(408,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\bugra\OneDrive\Masaüstü\BOS-DENEME\Ndatt-Proje\Ndatt-Proje.cpp(410,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\bugra\OneDrive\Masaüstü\BOS-DENEME\Ndatt-Proje\Ndatt-Proje.cpp(418,36): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\bugra\OneDrive\Masaüstü\BOS-DENEME\Ndatt-Proje\Ndatt-Proje.cpp(687,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\bugra\OneDrive\Masaüstü\BOS-DENEME\Ndatt-Proje\Ndatt-Proje.cpp(704,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Ndatt-Proje.vcxproj -> C:\Users\bugra\OneDrive\Masaüstü\BOS-DENEME\Ndatt-Proje\x64\Debug\Ndatt-Proje.exe
